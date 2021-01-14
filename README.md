@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="350" />
 
-### Desarrolador WEB (en proceso)!!
+### Desarrollador WEB (en proceso)!!
 - ✍ Aquí puedes encontrar mis proyectos: [portfolio]
 - 🔭 Conocimientos básicos de UX/UI
 - 🌱 Busco especializarme en Javascript
