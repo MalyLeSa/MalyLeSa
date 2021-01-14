@@ -1,7 +1,7 @@
 <!--
 **MalyLeSa/MalyLeSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hello World, I'm Anna  👋
+### Hello World, Soy Arely  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -57,8 +57,7 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[website]: 
+[instagram]: https://www.instagram.com/maly_nueve/
+[linkedin]: https://linkedin.com/in/malinaly-lesa/
+[portfolio]: 
