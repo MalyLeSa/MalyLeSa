@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="350" />
 
-### Desarrollador WEB (en proceso)!!
+### Salesforce Funcional!!
 - ✍ Aquí puedes encontrar mis proyectos: [portfolio]
 - 🔭 Conocimientos básicos de UX/UI
 - 😄 Ing. en Computación con un salpicón de Diseño Gráfico
@@ -28,8 +28,5 @@
 <div>
 <a href="https://www.linkedin.com/in/malinaly-lesa/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="23px" /></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/maly_nueve/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram" width="23px" /></a>
- <br> </br>
-</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Maly-LeSa.Maly-LeSa)
