@@ -27,6 +27,5 @@
 
 <div>
 <a href="https://www.linkedin.com/in/malinaly-lesa/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="23px" /></a>
-&nbsp;&nbsp;
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Maly-LeSa.Maly-LeSa)
