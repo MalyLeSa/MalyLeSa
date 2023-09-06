@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="350" />
 
-### Salesforce Funcional!!
+### Salesforce Funcional Trainee!!
 - ✍ Aquí puedes encontrar mis proyectos: [portfolio]
 - 🔭 Conocimientos básicos de UX/UI
 - 😄 Ing. en Computación con un salpicón de Diseño Gráfico
