@@ -5,8 +5,8 @@
 ### Salesforce Funcional Trainee!!
 - ✍ Aquí puedes encontrar mis proyectos: [portfolio]
 - 🔭 Conocimientos básicos de UX/UI
-- 😄 Ing. en Computación con un salpicón de Diseño Gráfico
-- ⚡ Jugadora apasionada de Tocho Bandera 🏈
+- 😄 Consultor Salesforce
+- ⚡ Jugadora apasionada de Tocho 🏈
 
 ### Lenguajes y Herramientas:
 
